@@ -2,7 +2,7 @@
 
 import { useEffect, useRef, useState } from "react";
 
-const YOUTUBE_VIDEO_ID = "dQw4w9WgXcQ"; // Replace with actual Kezar Teks video ID
+const YOUTUBE_VIDEO_ID = "Q5vLHyS-EHY"; // Replace with actual Kezar Teks video ID
 
 export default function HeroVideo() {
     const [isReady, setIsReady] = useState(false);
