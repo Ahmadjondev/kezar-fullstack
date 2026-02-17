@@ -2,7 +2,7 @@
 
 import { useState, useEffect, useRef, useCallback } from "react";
 
-const YOUTUBE_VIDEO_ID = "dQw4w9WgXcQ"; // Replace with actual Kezar Teks video ID
+const YOUTUBE_VIDEO_ID = "Q5vLHyS-EHY"; // Replace with actual Kezar Teks video ID
 
 export default function VideoShowcase() {
     const [open, setOpen] = useState(false);
